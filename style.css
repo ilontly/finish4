@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #9F3ED5;
+    height: 70px;
+}
+header a{
+    color: #FFFF00	;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    color: #FFFF00;
+}
+body{
+    background-color:#9F3ED5;
+    color: #FFFF00;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.link-nav{
+    margin-left: 20px;
+}
